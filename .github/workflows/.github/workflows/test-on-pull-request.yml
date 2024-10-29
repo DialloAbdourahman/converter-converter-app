@@ -1,4 +1,4 @@
-name: tests-resource
+name: tests-converter
 
 on:
   pull_request:
